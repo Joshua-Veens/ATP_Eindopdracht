@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+ATP_Eindopdracht.egg-info/PKG-INFO
+ATP_Eindopdracht.egg-info/SOURCES.txt
+ATP_Eindopdracht.egg-info/dependency_links.txt
+ATP_Eindopdracht.egg-info/not-zip-safe
+ATP_Eindopdracht.egg-info/requires.txt
+ATP_Eindopdracht.egg-info/top_level.txt
+src/A4988.cpp
+src/BH1750.cpp
